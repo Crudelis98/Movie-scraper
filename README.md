@@ -40,8 +40,26 @@ The software can also export movies and series in a format recognized by popular
     ├── Episode S02E01-E02.mkv  
     └── Episode S02E03.mkv  
 
-**Currently supported platoforms:**  
+**Currently supported platforms:**  
 	 - Windows 10/11  
-
+  
 **Currently supported browsers:**  
 	- Google chrome  
+ 
+**Currently supported streaming services:**  
+	 - Netflix  
+  
+**Planned support for:**  
+	- Microsoft Edge  
+	- Firefox  
+ 	- Opera  
+	- Disney  
+	- HBO  
+	- Prime Video  
+ 
+**FAQ**  
+*Can I watch movies outside of streaming platform?*  
+No, but I am developing unified media player that gives somewhat native experince of watching movies inside Jellyfin. Feel free to sponsor this project if you are intrested.  
+
+*Can I download movies?*  
+No.  
