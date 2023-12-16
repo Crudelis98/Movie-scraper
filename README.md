@@ -52,12 +52,12 @@ The software can also export movies and series in a format recognized by popular
  
 **Currently supported streaming services:**  
 	 - Netflix  
+  	 - Disney Plus
   
 **Planned support for:**  
 	- Microsoft Edge  
 	- Firefox  
  	- Opera  
-	- Disney  
 	- HBO  
 	- Prime Video  
  
